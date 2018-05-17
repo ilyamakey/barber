@@ -1,0 +1,27 @@
+.filter
+  margin-bottom: 20px
+  text-transform: uppercase
+  &__header
+    margin-top: 0px
+    margin-bottom: 40px
+  &__list
+    list-style: none
+    padding: 0
+  &__item
+    position: relative
+    margin-bottom: 25px
+  &__label
+    display: flex
+    align-items: center
+    &::before
+      display: inline-block
+      content: ''
+      position: absolute
+      width: 20px
+      height: 20px
+      background: url("/build/pics/buttons.png") 0px -37px no-repeat
+    &--active
+      &::before
+        background: url("/build/pics/buttons.png") 0px 0px no-repeat
+  &__link
+    margin-right: 20px

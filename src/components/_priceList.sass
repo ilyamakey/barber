@@ -1,0 +1,26 @@
+.price-list
+  @extend %default-page-view
+  &__header
+    @extend %page-header
+  &__advert
+    list-style: none
+    padding: 0px
+  &__item
+    margin-bottom: 10px
+    &::before
+      @extend %list-style
+  &__table
+    margin-left: 10px
+    border-collapse: collapse
+    td
+      min-width: 230px
+      padding: 16px
+      border: 1px solid $black
+    &__heading
+      margin-left: 10px
+  &__column
+    column-count: 2
+    column-gap: 50px
+  &__article
+    margin: 50px auto
+

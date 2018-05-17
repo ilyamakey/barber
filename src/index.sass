@@ -1,0 +1,53 @@
+@import normalize
+@import vendor/css/bootstrap-grid.min.css
+@import fonts
+@import variables
+
+html
+  font-size: $font-base
+
+body
+  font-size: $font-base * 1.6
+  @extend %main-font
+
+a
+  text-decoration: none
+  +font-heading
+
+h1
+  font-size: 4.8rem
+
+h2
+  font-size: 3rem
+  +font-heading
+
+h3
+  font-size: 2.4rem
+
+p
+  +font-heading
+
+.header
+  background-color: $black
+
+@import components/navigation
+@import components/buttons
+@import components/teaser
+@import components/preview
+@import components/main
+@import components/footer
+@import components/breadCrumb
+@import components/ourteam
+@import components/teamMember
+@import components/priceList
+@import components/shop
+@import components/goodsPhoto
+@import components/goodsDescription
+@import components/itemOrderBtn
+@import components/shop-item
+@import components/purchase
+@import components/shop-grid
+@import components/filter-panel
+@import components/contacts
+@import components/news
+@import components/loginForm

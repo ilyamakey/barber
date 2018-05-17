@@ -1,0 +1,167 @@
+[
+  {
+    "id": "5a318819bd39fe8c21a611df",
+    "name": "commodo",
+    "brand": "crew",
+    "description": "Esse enim Lorem sint sint pariatur eiusmod officia. Ut aute aliqua laboris consectetur magna occaecat exercitation eiusmod sint aute elit id. Excepteur aliquip ipsum do pariatur nisi laboris ipsum eiusmod commodo ex commodo cupidatat commodo labore. Occaecat ipsum proident velit aliquip deserunt nulla laboris velit veniam fugiat nulla tempor enim deserunt.\r\n",
+    "picture": [
+      "ac-beard-serum.png",
+      "/build/pics/goods/"
+    ],
+    "price": 200
+  },
+  {
+    "id": "5a31881969216ca062f7d029",
+    "name": "ex",
+    "brand": "baxter",
+    "description": "Laboris ex do pariatur consequat velit est ex labore est commodo. Nulla eu ipsum ut duis occaecat adipisicing laborum sint magna. Fugiat exercitation incididunt tempor aliquip reprehenderit ex occaecat id. Deserunt anim tempor voluptate aliquip. Ut ad deserunt tempor culpa deserunt ipsum magna adipisicing exercitation ea velit ullamco. Cupidatat ea non proident minim deserunt nulla duis cupidatat enim reprehenderit. Lorem do nisi nostrud labore excepteur officia enim dolore ad officia pariatur.\r\n",
+    "picture": [
+      "lavender-shaving-soap.png",
+      "/build/pics/goods/"
+    ],
+    "price": 250
+  },
+  {
+    "id": "5a31881901f3c14260fb8c8f",
+    "name": "identer",
+    "brand": "naty",
+    "description": "Ullamco sunt Lorem labore ullamco. Sint eiusmod cillum qui dolore ipsum. Aute eiusmod velit dolor ullamco id esse incididunt in veniam enim ea culpa.\r\n",
+    "picture": [
+      "lavender-shaving-soap1.png",
+      "/build/pics/goods/"
+    ],
+    "price": 120
+  },
+  {
+    "id": "5a318819579850320e14bdcb",
+    "name": "enim",
+    "brand": "naty",
+    "description": "Deserunt pariatur proident exercitation magna commodo velit amet Lorem mollit ex. Eu in laboris ipsum commodo. Et ut quis laboris officia minim. Proident voluptate non exercitation magna.\r\n",
+    "picture": [
+      "ac-lotion.png",
+      "/build/pics/goods/"
+    ],
+    "price": 557
+  },
+  {
+    "id": "5a318819668c6bb2ff3aa744",
+    "name": "proident",
+    "brand": "baxter",
+    "description": "Nostrud irure aliqua nulla nostrud adipisicing proident laboris minim amet. Consectetur ullamco aliqua cillum aute et ex. Aliquip ad nulla deserunt aute fugiat elit cupidatat sit officia.\r\n",
+    "picture": [
+      "lemon-shaving-kit.png",
+      "/build/pics/goods/"
+    ],
+    "price": 260
+  },
+  {
+    "id": "5a318819995dccd483b1c7b2",
+    "name": "eu",
+    "brand": "murray",
+    "description": "Officia veniam officia minim nulla commodo nostrud ex fugiat ex velit dolore eu dolor. Labore in elit duis quis laboris officia magna voluptate reprehenderit nisi amet sint ad. Dolor incididunt ut est do cillum ad ea deserunt non.\r\n",
+    "picture": [
+      "lemon-shaving-kit2.png",
+      "/build/pics/goods/"
+    ],
+    "price": 180
+  },
+  {
+    "id": "5a318819ebde5ba4318227a6",
+    "name": "aliquip",
+    "brand": "crew",
+    "description": "Dolor id est est duis Lorem dolore aliqua sit eiusmod anim exercitation amet. Magna occaecat tempor incididunt deserunt. Sit amet nulla ea labore non.\r\n",
+    "picture": [
+      "ac-shave-foam.png",
+      "/build/pics/goods/"
+    ],
+    "price": 340
+  },
+  {
+    "id": "5a318819470fd5f5aeecc762",
+    "name": "dolore",
+    "brand": "baxter",
+    "description": "Nisi occaecat cupidatat aliqua dolore velit excepteur commodo id adipisicing ipsum duis eiusmod proident incididunt. Consequat est occaecat exercitation minim non reprehenderit occaecat do et esse adipisicing. Irure nisi aliqua ea velit qui anim elit voluptate non dolore excepteur minim commodo velit.\r\n",
+    "picture": [
+      "ac-shave-gel.png",
+      "/build/pics/goods/"
+    ],
+    "price": 150
+  },
+  {
+    "id": "5a318819a1adea46cbbbb86a",
+    "name": "pariatur",
+    "brand": "crew",
+    "description": "Dolor incididunt Lorem tempor excepteur nulla qui deserunt sit aliquip ut id nostrud minim. Duis adipisicing esse Lorem do laborum reprehenderit quis occaecat laboris tempor. Commodo consectetur nostrud in in consequat elit laboris. Eu dolor laboris excepteur ex consectetur duis nulla proident ex occaecat. Labore do eu nostrud enim laboris dolore minim. Duis pariatur duis proident Lorem duis proident consequat veniam fugiat sint deserunt.\r\n",
+    "picture": [
+      "ac-shave-oil.png",
+      "/build/pics/goods/"
+    ],
+    "price": 210
+  },
+  {
+    "id": "5a3188196e24565d124ff122",
+    "name": "tempor",
+    "brand": "baxter",
+    "description": "Laborum nulla proident qui tempor adipisicing irure. Reprehenderit qui fugiat amet qui nostrud sit incididunt officia sunt aute culpa anim. Lorem eiusmod est commodo ullamco amet ullamco reprehenderit anim ea cupidatat enim.\r\n",
+    "picture": [
+      "ac-shaving-cream.png",
+      "/build/pics/goods/"
+    ],
+    "price": 152
+  },
+  {
+    "id": "5a3188192edc88dd1f0c676c",
+    "name": "do",
+    "brand": "murray",
+    "description": "Laboris eiusmod fugiat sit adipisicing esse dolore incididunt anim officia anim. Ea consequat voluptate reprehenderit consequat amet reprehenderit non cupidatat nulla eiusmod cillum do et. Ut cillum nisi non velit. Mollit esse nisi nisi pariatur consectetur deserunt velit incididunt ex excepteur reprehenderit minim.\r\n",
+    "picture": [
+      "ac-spf15.png",
+      "/build/pics/goods/"
+    ],
+    "price": 300
+  },
+  {
+    "id": "5a31881998e36adb4c5c9d53",
+    "name": "quis",
+    "brand": "murray",
+    "description": "Dolore excepteur id excepteur nulla irure laborum deserunt nulla et. Anim nostrud do veniam nulla ut. Laboris adipisicing cillum aute anim tempor amet ea ut adipisicing minim occaecat sit nulla. Anim in dolor aute voluptate id aute et dolore magna ea. Eiusmod irure est anim excepteur minim pariatur in anim reprehenderit cupidatat laborum.\r\n",
+    "picture": [
+      "ac-spf15.png",
+      "/build/pics/goods/"
+    ],
+    "price": 190
+  },
+  {
+    "id": "5a318819b784ee06be488530",
+    "name": "ad",
+    "brand": "crew",
+    "description": "Commodo reprehenderit adipisicing do cupidatat dolor exercitation aute commodo tempor officia dolor consectetur consectetur aliquip. Dolore veniam aute non magna esse ipsum eiusmod pariatur voluptate duis veniam ullamco labore. Enim qui non ea dolore nulla reprehenderit.\r\n",
+    "picture": [
+      "ac-styling-cream.png",
+      "/build/pics/goods/"
+    ],
+    "price": 31
+  },
+  {
+    "id": "5a3188197197c3ee6ab267a5",
+    "name": "proident",
+    "brand": "crew",
+    "description": "Mollit labore voluptate fugiat cillum non ipsum ipsum non adipisicing et est. Esse velit id esse amet aliqua ad occaecat. Ex nostrud id sit aute duis anim dolor adipisicing anim ipsum consectetur excepteur laborum eiusmod. Culpa labore exercitation commodo enim consectetur est voluptate. Dolore qui fugiat reprehenderit esse velit. Amet quis sit excepteur cupidatat Lorem et. Minim anim adipisicing magna esse magna eiusmod duis reprehenderit aute ex fugiat veniam quis.\r\n",
+    "picture": [
+      "ac-toner.png",
+      "/build/pics/goods/"
+    ],
+    "price": 4452
+  },
+  {
+    "id": "5a3188192a8c68b44024e4f2",
+    "name": "excepteur",
+    "brand": "naty",
+    "description": "Veniam consectetur est aliqua enim ut voluptate tempor labore exercitation sit ea. Do aliquip consequat elit nisi amet sit excepteur tempor ea veniam quis. Ipsum labore laboris deserunt et proident voluptate labore labore ut.\r\n",
+    "picture": [
+      "shaving-kit.png",
+      "/build/pics/goods/"
+    ],
+    "price": 420
+  }
+]

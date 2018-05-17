@@ -1,0 +1,61 @@
+.login-form
+  position: absolute
+  display: flex
+  flex-direction: column
+  top: 150%
+  left: 50%
+  border: 2px solid $black
+  width: 460px
+  padding: 50px
+  margin-left: -(460px/2)
+  z-index: 500
+  text-transform: uppercase
+  line-height: 2rem
+  background-color: $white
+  &__heading
+    margin-top: 0
+  &__close
+    position: absolute
+    right: -50px
+    top: 0%
+    width: 25px
+    height: 25px
+    border: 0
+    background: url("/build/pics/cross-white.png") no-repeat center transparent
+    &:hover
+      transform: scale(0.8)
+      cursor: pointer
+  &__input
+    border: 2px solid $black
+    padding: 15px
+    margin-bottom: 10px
+    +font-paragraph(1.4rem)
+    &::placeholder
+      color: $black
+      opacity: 1
+  &__sign-in
+    display: flex
+    justify-content: space-between
+    position: relative
+    margin-top: 10px
+    margin-bottom: 20px
+  &__checkbox
+    margin-right: 20px
+    vertical-align: middle
+  &__label
+    cursor: pointer
+    &::before
+      display: inline-block
+      content: ''
+      position: absolute
+      width: 20px
+      height: 20px
+      background: url("/build/pics/buttons.png") 0px -37px no-repeat
+    &--active
+      &::before
+        background: url("/build/pics/buttons.png") 0px 0px no-repeat
+  &__forget
+    color: $black
+    text-decoration: underline
+    line-height: 2rem
+

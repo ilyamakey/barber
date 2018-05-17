@@ -1,0 +1,96 @@
+.preview
+  display: flex
+  margin: 0px auto 50px
+  justify-content: space-around
+  align-items: center
+  background: url(../build/pics/background-item-pattern.jpg) $grey-light
+  @media (max-width: 961px)
+    flex-direction: column
+  &__item
+    width: 480px
+    height: 450px
+    padding: 20px 50px
+    overflow: auto
+    @media (max-width: 767px)
+      display: flex
+      flex-direction: column
+      align-items: center
+      width: 100%
+      padding: 20px 25px
+      height: auto
+      text-align: justify
+    &__heading
+    &__content
+      @media (max-width: 767px)
+        display: flex
+        flex-direction: column
+        justify-content: center
+  &__divider
+    width: 8px
+    height: 278px
+    background: url(../build/pics/border-fade.png) no-repeat
+    @media (max-width: 767px)
+      display: none
+  &__news
+    margin-bottom: 25px
+    @media (max-width: 767px)
+      margin-bottom: 10px
+    &__link
+      display: block
+      color: $black
+      text-decoration: underline
+    &__time-stamp
+      @extend .news__time-stamp
+  &__gallery
+    display: flex
+    flex-direction: column
+    flex-grow: 0
+    align-items: flex-start
+    &__img
+      width: 100%
+      height: auto
+      border: 5px solid $white
+      margin-bottom: 30px
+  &__contacts
+    &__paragraph
+      margin-bottom: 25px
+      &:last-child
+        margin-bottom: 50px
+  &__btn-group
+    display: flex
+    width: 100%
+    justify-content: space-between
+    @media (max-width: 767px)
+      margin-bottom: 20px
+  &__apply
+    &__input
+      width: 200px
+      border: 2px solid $black
+      padding: 15px
+      +font-paragraph(1.4rem)
+      @extend %main-font
+      text-align: left
+      color: $grey-dark
+      box-shadow: none
+      background-color: $white
+      @media (max-width: 533px)
+        width: 100%
+        margin-bottom: 30px
+    &__submit
+      width: 100%
+      @media (max-width: 767px)
+        margin-bottom: 20px
+  &__input-row
+    display: flex
+    justify-content: space-between
+    margin-bottom: 30px
+    @media (max-width: 533px)
+      flex-direction: column
+      align-items: center
+      margin-bottom: 0px
+
+
+
+
+
+
